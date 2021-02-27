@@ -1,6 +1,5 @@
-header{
-  /* background-image: url(./img/favicon.ico); */
-
+html{
+  scroll-behavior: smooth;
 }
 
 .top{
