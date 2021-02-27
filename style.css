@@ -1,0 +1,29 @@
+header{
+  /* background-image: url(./img/favicon.ico); */
+
+}
+
+.top{
+  background-image: url(./img/main-vsual-nontitle.png);
+  background-size: cover;
+}
+.course{
+  background-color:rgba(184, 241, 220, 0.6);
+}
+.form-control{
+  padding:35px;
+  width:50%;
+  margin:0 auto;
+  border:3px solid rgba(0,0,0,.2);
+  border-radius:100px;
+}
+form{
+  text-align: center;
+}
+.btn{
+  background-color:rgb(230,10,0);
+  border: none;
+}
+.btn:hover{
+  opacity:.7;
+}
